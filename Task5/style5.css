@@ -1,0 +1,11 @@
+.block{
+background-color: slategray;
+display: flex;
+width: 300px;
+height: 200px;
+justify-content:space-around;
+align-items: center;
+
+
+}
+

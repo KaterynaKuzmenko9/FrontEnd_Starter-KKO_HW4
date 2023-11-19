@@ -1,0 +1,27 @@
+.menu{
+    background-color: black;
+   width: 400px;
+   height: 120px;
+    margin: 0;
+    display: flex;
+   justify-content: space-around;
+   line-height: 20px;
+
+
+   
+}
+
+.light1{
+    background-color: gray;
+    
+}
+
+
+
+a {
+    color: white; 
+    padding: 20px; 
+
+    
+}
+

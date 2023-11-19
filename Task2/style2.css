@@ -1,0 +1,32 @@
+
+
+.container{
+   border: solid grey;
+   width: 1200px;
+   margin: 0 auto;
+   border: 2px solid gray;
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   display: block;
+   
+  
+    
+}
+
+.block{
+   width: 30%;
+   border: solid lightgrey 2 px;
+  
+  
+   
+ 
+ 
+}
+
+
+.row{
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+}

@@ -1,0 +1,21 @@
+body{
+   
+    margin: 0%;
+
+}
+
+
+
+
+
+.block {
+    background-color: lightgray;
+    padding: 40px;
+    display: flex;
+
+}
+
+
+p{
+padding-left: 600px ;
+}
